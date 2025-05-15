@@ -8971,6 +8971,140 @@
     "2398": {
       "url": "https://api.purpurmc.org/v2/purpur/1.21.4/2398/download",
       "sha256": "235f5837ebd0326a340e677660571c9350013b54595c9317e31c3bd395c719da"
+    },
+    "2399": {
+      "url": "https://api.purpurmc.org/v2/purpur/1.21.4/2399/download",
+      "sha256": "46ff1983f71bf002db49ef42884c91884dcf3b75b53793a3123290fd94f8b186"
+    },
+    "2400": {
+      "url": "https://api.purpurmc.org/v2/purpur/1.21.4/2400/download",
+      "sha256": "e1d19d2d500106c80fe9f06a36c22d126b81b29acc9b2aac377cba46f13af55c"
+    },
+    "2401": {
+      "url": "https://api.purpurmc.org/v2/purpur/1.21.4/2401/download",
+      "sha256": "c1035b2a51df57ae9d522afc75317dd95c5f2b28436715b6f6dddb983f3e71b5"
+    },
+    "2402": {
+      "url": "https://api.purpurmc.org/v2/purpur/1.21.4/2402/download",
+      "sha256": "cb6ad271e847301195595cde1df277374ac6c27cabb0143e588550fdf4da481f"
+    },
+    "2403": {
+      "url": "https://api.purpurmc.org/v2/purpur/1.21.4/2403/download",
+      "sha256": "b6707d5c7242e65a07ff0ba115aae472531a4afc8d044d8119c8b84aba676760"
+    },
+    "2404": {
+      "url": "https://api.purpurmc.org/v2/purpur/1.21.4/2404/download",
+      "sha256": "d338a04d4d0661bff06283ba1fc58dff5bef11640947e26e5b1c34553ee7d658"
+    },
+    "2405": {
+      "url": "https://api.purpurmc.org/v2/purpur/1.21.4/2405/download",
+      "sha256": "a9d2b17370d4aaef0f9ce054f3cf9a9b5c6f606148ce8f608adb996ac66880ce"
+    },
+    "2406": {
+      "url": "https://api.purpurmc.org/v2/purpur/1.21.4/2406/download",
+      "sha256": "2c36bb2c7da72cfb4136125e19131bdc705ce25364c921d152c0d3267a272c42"
+    },
+    "2407": {
+      "url": "https://api.purpurmc.org/v2/purpur/1.21.4/2407/download",
+      "sha256": "801a43efdd89b563c4af7761d85278a08147bbe13e8fd638bcb821602baa65a5"
+    },
+    "2408": {
+      "url": "https://api.purpurmc.org/v2/purpur/1.21.4/2408/download",
+      "sha256": "34b69ffc703f17cecebf3146116f198d8ac039c31744ce1f40bb0fb136ce4ad2"
+    },
+    "2409": {
+      "url": "https://api.purpurmc.org/v2/purpur/1.21.4/2409/download",
+      "sha256": "a0ac883e7075d7fa42bade392506dc001a9b7a3f432b947c29db2c63a6f1dfb5"
+    },
+    "2410": {
+      "url": "https://api.purpurmc.org/v2/purpur/1.21.4/2410/download",
+      "sha256": "8b1044ed8ae688806d4939dfce4f9d57b14355dccaaeffdb078bb749b6ba433b"
+    },
+    "2411": {
+      "url": "https://api.purpurmc.org/v2/purpur/1.21.4/2411/download",
+      "sha256": "505c46fb85a4b4630f2cf4a381bbc2cd59b397d866a13fc5eff3cdc32f269cc9"
+    },
+    "2412": {
+      "url": "https://api.purpurmc.org/v2/purpur/1.21.4/2412/download",
+      "sha256": "708b73ebbe3e80bf6cbcfb50cf863d9c017ce68d94164a7d3d2d799ed74de0d7"
+    },
+    "2413": {
+      "url": "https://api.purpurmc.org/v2/purpur/1.21.4/2413/download",
+      "sha256": "03e4ec3a037f302687d15ed6bb42e319315b4dd810c3f8bf2d4394feec7de0cf"
+    },
+    "2414": {
+      "url": "https://api.purpurmc.org/v2/purpur/1.21.4/2414/download",
+      "sha256": "81cf9a90afc91db107d299b6e08254b2433d76a876f22e2ce8568643632c1b60"
+    },
+    "2415": {
+      "url": "https://api.purpurmc.org/v2/purpur/1.21.4/2415/download",
+      "sha256": "55c711bd4a184a40726fa7066055fd4999e306990fbeb75301d59fa2b57f85fd"
+    },
+    "2416": {
+      "url": "https://api.purpurmc.org/v2/purpur/1.21.4/2416/download",
+      "sha256": "5d5e7fbac52581f468768260a6ca3fa5879dcb7839ecf2bfbba342a1c639793d"
+    }
+  },
+  "1.21.5": {
+    "2417": {
+      "url": "https://api.purpurmc.org/v2/purpur/1.21.5/2417/download",
+      "sha256": "5db50631a059412627328851fc9f04b2f3f31422eecd1d928ccbd7ae6439531d"
+    },
+    "2418": {
+      "url": "https://api.purpurmc.org/v2/purpur/1.21.5/2418/download",
+      "sha256": "bdc7a1b1ee6606cc60bd45389dc484a857cf31b12c1fbfdce55c6698474c93cd"
+    },
+    "2419": {
+      "url": "https://api.purpurmc.org/v2/purpur/1.21.5/2419/download",
+      "sha256": "27a9ce60e792905fee2875c4bc02826cf9ec37cad5f997635bf774d674b0e8a2"
+    },
+    "2420": {
+      "url": "https://api.purpurmc.org/v2/purpur/1.21.5/2420/download",
+      "sha256": "4a5316f3dba9d358936126f9130a3e384e65a8da32f65ac1e51b7ba9d24245c8"
+    },
+    "2421": {
+      "url": "https://api.purpurmc.org/v2/purpur/1.21.5/2421/download",
+      "sha256": "ae931a76ca2f6d01d6df1aaa92d9f1c5eeb862d4263c9ed9bf4c4cb67959fa11"
+    },
+    "2422": {
+      "url": "https://api.purpurmc.org/v2/purpur/1.21.5/2422/download",
+      "sha256": "c60c0acf372757df529da6362172db43a4d38c4bf3eb6a1f92addbbd407391e7"
+    },
+    "2423": {
+      "url": "https://api.purpurmc.org/v2/purpur/1.21.5/2423/download",
+      "sha256": "db725fea33be341dfa2d3db378ef3622adffa29944c256c127fc2687e7b70dd0"
+    },
+    "2424": {
+      "url": "https://api.purpurmc.org/v2/purpur/1.21.5/2424/download",
+      "sha256": "8c1d635a35c3ad2ae799239e3c190620f34e29cacb451a0d8176a214c7be766e"
+    },
+    "2425": {
+      "url": "https://api.purpurmc.org/v2/purpur/1.21.5/2425/download",
+      "sha256": "bf659246f0a8746b665046244308a2625074d991988063266a687a4fad2737c7"
+    },
+    "2426": {
+      "url": "https://api.purpurmc.org/v2/purpur/1.21.5/2426/download",
+      "sha256": "8050dbad7d7f163eb0a5617dec2e081c5faa2439bfb14e84d114673b6dcfef8a"
+    },
+    "2427": {
+      "url": "https://api.purpurmc.org/v2/purpur/1.21.5/2427/download",
+      "sha256": "1ba9770903b6f2752130f1a3c218c2f7aef035a8fcf622d5070afedfaf09b1fa"
+    },
+    "2428": {
+      "url": "https://api.purpurmc.org/v2/purpur/1.21.5/2428/download",
+      "sha256": "e6be1e6d7719d8239f638923bdd240619240fe86ae948f784b06f566702004b7"
+    },
+    "2429": {
+      "url": "https://api.purpurmc.org/v2/purpur/1.21.5/2429/download",
+      "sha256": "f3a853520e68ab7a9cb8627003d5f92796c7137908dd60dbf52f4c53d17b376a"
+    },
+    "2430": {
+      "url": "https://api.purpurmc.org/v2/purpur/1.21.5/2430/download",
+      "sha256": "f2b32b866ea85045ce21f4d8ae3e718387f69b44a49ed2b0abe225c40152ebbe"
+    },
+    "2431": {
+      "url": "https://api.purpurmc.org/v2/purpur/1.21.5/2431/download",
+      "sha256": "d8e0f24d923d48b0ff16e769642a1b223496cfc15f0241a998319ecd2740fc64"
     }
   }
 }
