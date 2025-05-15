@@ -1090,5 +1090,101 @@
       "net.fabricmc:intermediary:25w08a",
       "org.quiltmc:hashed:25w08a"
     ]
+  },
+  "25w09b": {
+    "libraries": [
+      "net.fabricmc:intermediary:25w09b",
+      "org.quiltmc:hashed:25w09b"
+    ]
+  },
+  "25w09a": {
+    "libraries": [
+      "net.fabricmc:intermediary:25w09a",
+      "org.quiltmc:hashed:25w09a"
+    ]
+  },
+  "25w10a": {
+    "libraries": [
+      "net.fabricmc:intermediary:25w10a",
+      "org.quiltmc:hashed:25w10a"
+    ]
+  },
+  "1.21.5-pre2": {
+    "libraries": [
+      "net.fabricmc:intermediary:1.21.5-pre2",
+      "org.quiltmc:hashed:1.21.5-pre2"
+    ]
+  },
+  "1.21.5-pre1": {
+    "libraries": [
+      "net.fabricmc:intermediary:1.21.5-pre1",
+      "org.quiltmc:hashed:1.21.5-pre1"
+    ]
+  },
+  "1.21.5-pre3": {
+    "libraries": [
+      "net.fabricmc:intermediary:1.21.5-pre3",
+      "org.quiltmc:hashed:1.21.5-pre3"
+    ]
+  },
+  "1.21.5-rc1": {
+    "libraries": [
+      "net.fabricmc:intermediary:1.21.5-rc1",
+      "org.quiltmc:hashed:1.21.5-rc1"
+    ]
+  },
+  "1.21.5": {
+    "libraries": [
+      "net.fabricmc:intermediary:1.21.5",
+      "org.quiltmc:hashed:1.21.5"
+    ]
+  },
+  "1.21.5-rc2": {
+    "libraries": [
+      "net.fabricmc:intermediary:1.21.5-rc2",
+      "org.quiltmc:hashed:1.21.5-rc2"
+    ]
+  },
+  "25w14craftmine": {
+    "libraries": [
+      "net.fabricmc:intermediary:25w14craftmine",
+      "org.quiltmc:hashed:25w14craftmine"
+    ]
+  },
+  "25w15a": {
+    "libraries": [
+      "net.fabricmc:intermediary:25w15a",
+      "org.quiltmc:hashed:25w15a"
+    ]
+  },
+  "25w16a": {
+    "libraries": [
+      "net.fabricmc:intermediary:25w16a",
+      "org.quiltmc:hashed:25w16a"
+    ]
+  },
+  "25w17a": {
+    "libraries": [
+      "net.fabricmc:intermediary:25w17a",
+      "org.quiltmc:hashed:25w17a"
+    ]
+  },
+  "25w18a": {
+    "libraries": [
+      "net.fabricmc:intermediary:25w18a",
+      "org.quiltmc:hashed:25w18a"
+    ]
+  },
+  "25w19a": {
+    "libraries": [
+      "net.fabricmc:intermediary:25w19a",
+      "org.quiltmc:hashed:25w19a"
+    ]
+  },
+  "25w20a": {
+    "libraries": [
+      "net.fabricmc:intermediary:25w20a",
+      "org.quiltmc:hashed:25w20a"
+    ]
   }
 }
