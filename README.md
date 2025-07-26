@@ -1,4 +1,4 @@
-# nix-minecraft (with purpur)
+# nix-minecraft
 
 ## About
 
