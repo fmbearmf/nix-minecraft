@@ -65,12 +65,12 @@
       mkTests =
         pkgs:
         let
-          inherit (pkgs.stdenv) isLinux;
+          inherit (pkgs.stdenvNoCC) isLinux;
           inherit (pkgs.lib) optionalAttrs mapAttrs;
           callPackage = pkgs.newScope {
             inherit self;
             inherit (self) outputs;
-            lib = mkLib pkgs;
+            lib = pkgs.lib.extend (_: _: { our = self.lib; });
           };
         in
         optionalAttrs isLinux (mapAttrs (n: v: callPackage v { }) (self.lib.rakeLeaves ./tests));
@@ -78,9 +78,9 @@
       nixosModules = self.lib.rakeLeaves ./modules;
     in
     {
-      lib = import ./lib { lib = flake-utils.lib // nixpkgs.lib; };
+      lib = import ./lib { lib = nixpkgs.lib; };
 
-      overlay = final: prev: mkPackages prev;
+      overlay = import ./overlay.nix;
       overlays.default = self.overlay;
       inherit nixosModules;
 
@@ -111,7 +111,7 @@
         };
       in
       rec {
-        legacyPackages = mkPackages pkgs;
+        legacyPackages = import ./pkgs/all-packages.nix pkgs;
 
         packages = {
           inherit (legacyPackages)
