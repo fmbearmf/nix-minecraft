@@ -48,9 +48,10 @@ let
     sortBy "version" versionOlder (
       mapAttrsToList (
         buildNumber: value:
-        callPackage ./derivation.nix {
-          inherit (value) url sha256;
+        callPackage ./derivation.nix rec {
+          inherit (value) sha256;
           version = "${mcVersion}-build.${buildNumber}";
+          url = "https://api.purpurmc.org/v2/purpur/${version}/${buildNumber}/download";
           jre = getRecommendedJavaVersion mcVersion;
           log4j = getLog4j mcVersion;
           minecraft-server = vanillaServers."vanilla-${escapeVersion mcVersion}";

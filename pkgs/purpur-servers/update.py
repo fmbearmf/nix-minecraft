@@ -84,7 +84,6 @@ def main(lock_path, bad_path):
 
             updated += 1
             lock_data[version][build] = {
-                "url": build_download,
                 "sha256": build_sha256
             }
 
